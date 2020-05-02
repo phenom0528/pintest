@@ -1,15 +1,16 @@
+  
 {
-    "name":  "pintest",
-    "version": "0.0.0.1",
-    "desscription":  "copyringht belongs to kodorot",
-    "license": "MIT",
-    "dependenceies":{
-    "core": "*"
+    "name": "pintest", 
+    "version": "0.0.1", 
+    "description": "Copyright belongs to kodorobot", 
+    "license": "MIT", 
+    "dependencies": { 
+        "core": "*"
     },
-    "files":[
+    "files": [ 
         "main.ts",
-        "REAdME.md",
-        ],
+        "README.md"
+    ],
+
     "public": true
-}
-    
+}     
