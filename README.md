@@ -1,0 +1,1 @@
+A test to write microbit4pin

@@ -1,0 +1,15 @@
+{
+    "name":  "pintest",
+    "version": "0.0.0.1",
+    "desscription":  "copyringht belongs to kodorot",
+    "license": "MIT",
+    "dependenceies":{
+    "core": "*"
+    },
+    "files":[
+        "main.ts",
+        "REAdME.md",
+        ],
+    "public": true
+}
+    
