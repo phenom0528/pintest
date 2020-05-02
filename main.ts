@@ -5,7 +5,7 @@
  
 //% block="pintest" color="#44278D" 
 
-namespace pinttest {
+namespace pintest {
 
 
     //% weight=20
